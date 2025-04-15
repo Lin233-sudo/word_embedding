@@ -1,1 +1,2 @@
 # word_embedding
+使用金庸小说全集训练embedding模型，将金庸全集中的人名embedding应用主成分分析法降维到二维和三维，并进行可视化呈现。
